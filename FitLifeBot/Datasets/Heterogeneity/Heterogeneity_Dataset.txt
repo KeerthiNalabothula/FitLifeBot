@@ -1,7 +1,0 @@
-# Heterogeneity Activity Recognition Dataset
-
-This dataset is too large to be hosted on GitHub. Please download it directly from the UCI Machine Learning Repository.
-
-[Download Heterogeneity Activity Recognition Dataset](https://archive.ics.uci.edu/ml/datasets/Heterogeneity+Activity+Recognition)
-
-

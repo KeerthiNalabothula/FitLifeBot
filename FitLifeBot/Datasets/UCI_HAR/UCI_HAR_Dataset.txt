@@ -1,6 +1,0 @@
-# UCI HAR Dataset
-
-This dataset is too large to be hosted on GitHub. Please download it directly from the UCI Machine Learning Repository.
-
-[Download UCI HAR Dataset](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)
-

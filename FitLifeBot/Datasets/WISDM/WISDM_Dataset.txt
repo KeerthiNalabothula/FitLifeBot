@@ -1,5 +1,0 @@
-# WISDM (Wireless Sensor Data Mining) Dataset
-
-This dataset is too large to be hosted on GitHub. Please download it directly from the WISDM project page.
-
-[Download WISDM Dataset](https://www.cis.fordham.edu/wisdm/dataset.php)
